@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "https://example1.com",
+    "productUrls": []
+  },
+  {
+    "domain": "https://example2.com",
+    "productUrls": []
+  },
+  {
+    "domain": "https://example3.com",
+    "productUrls": []
+  }
+]
